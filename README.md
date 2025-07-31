@@ -6,10 +6,10 @@ This Project is the capstone project for the Professional ML and AI Certificate 
 
 ### Project Goal 
 
-#### dependencies used 
+#### Dependencies used 
 * Python,
 * Pytorch, 
-##### how to run the project 
+##### How to run the project 
 
 
 
